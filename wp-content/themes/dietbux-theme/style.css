@@ -1,0 +1,292 @@
+/*
+Theme Name: Dietbux Theme
+Theme URI: dietbux.com
+Author: Your Name
+Author URI: dietbux.com
+Description: This is custom theme for dietbux!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: <https://www.gnu.org/licenses/gpl-2.0.html>
+Text Domain: custom-theme
+Tags: custom-background
+*/
+
+@import url('https://fonts.cdnfonts.com/css/gotham');
+
+.navPrtDiv {
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.navList {
+    align-items: center;
+}
+
+.navList div {
+    padding: 0 20px;
+    font-family: "Gotham";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.logoText {
+    font-size: 30px;
+    font-family: "Gotham Black";
+}
+
+.logoText .logoBlack {
+    color: #000;
+}
+
+.logoText .logoBlue {
+    color: #00ABC8;
+}
+
+.sec1 {
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.sec1 h2 {
+    line-height: 0.8;
+}
+
+.sec1 h2 .h2Black {
+    font-size: 90px;
+    font-family: "Gotham Black";
+    color: #000;
+}
+
+.sec1 h2 .h2Blue {
+    font-size: 90px;
+    font-family: "Gotham Black";
+    color: #00ABC8;
+}
+
+.sec1 p {
+    font-size: 20px;
+    max-width: 400px;
+    font-family: 'Gotham';
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.blueBtn {
+    font-family: 'Gotham';
+    font-size: 18px;
+    color: #fff;
+    padding: 10px 20px;
+    background: #00ABC8 0% 0% no-repeat padding-box;
+    border: 1px solid #01788D;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.orangeBtn {
+    font-family: 'Gotham';
+    font-size: 18px;
+    color: #fff;
+    padding: 10px 20px;
+    background: #F78E6F 0% 0% no-repeat padding-box;
+    border: 1px solid #EE1C25;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.whiteBtn {
+    font-family: 'Gotham';
+    font-size: 18px;
+    color: 00ABC8;
+    padding: 10px 20px;
+    background: #fff 0% 0% no-repeat padding-box;
+    border: 1px solid #00ABC8;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.whiteOrnBtn {
+    font-family: 'Gotham';
+    font-size: 18px;
+    color: 00ABC8;
+    padding: 10px 20px;
+    background: #fff 0% 0% no-repeat padding-box;
+    border: 1px solid #F78E6F;
+    border-radius: 5px;
+    opacity: 1;
+    border: 1px solid #F78E6F;
+}
+
+.sec1 .bigWelcome {
+    font-size: 200px;
+    font-family: "Gotham Black";
+    color: #F5F5F5;
+    position: absolute;
+    bottom: 100px;
+    right: 8%;
+    z-index: 0;
+}
+
+.sec1 .homeBnrImg {
+    z-index: 1;
+    text-align: center;
+}
+
+.sec2 .serviceBox {
+    background: rgb(211,162,238);
+background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rgba(236,68,87,0.20220588235294112) 18%, rgba(0,212,255,0) 46%);
+    border: 0.5px solid #00ABC8;
+    border-radius: 10px;
+    opacity: 1;
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+    min-height: 275px;
+    width: 300px;
+    position: relative;
+}
+
+.sec2 .serBoxImg {
+    position: absolute;
+    bottom: 0;
+    left: -40px;
+}
+
+.serDetailList {
+    padding-top: 15px;
+    padding-left: 20px !important;
+    padding-right: 10px !important;
+}
+
+
+.serDetailList h4 {
+    text-align: left;
+    letter-spacing: -1.3px;
+    color: #00ABC8;
+    opacity: 1;
+    font-size: 26px;
+    font-family: "Gotham Black";
+    margin-bottom: 20px;
+}
+
+.serDetailList img {
+    align-self: center;
+    margin-right: 10px;
+}
+
+
+.SDLpointText .hText {
+    font-family: 'Gotham';
+    font-size: 15px;
+    margin-bottom: -5px;
+}
+
+.SDLpointText .pText {
+    font-family: 'Gotham Light';
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.SDLpointText h6 {
+    font-size: 16px;
+    font-family: "Gotham Black";
+    margin-bottom: 0;
+    margin-top: 20px;
+    
+}
+
+
+.sec2 .orangeBtn {
+    font-family: 'Gotham';
+    font-size: 14px;
+    color: #fff;
+    padding: 5px 10px;
+    background: #F78E6F 0% 0% no-repeat padding-box;
+    border: 1px solid #EE1C25;
+    border-radius: 5px;
+    opacity: 1;
+    z-index: 1;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
+.sec3Container {
+    background: #00ABC8;
+    border-radius: 20px;
+    min-height: 200px;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.sec3 h3 {
+    line-height: 0.8;
+}
+
+.sec3 .whiteText {
+    font-size: 80px;
+    color: #fff;
+    font-family: 'Gotham Black';
+    
+}
+
+.sec3 .orangeText {
+    font-size: 80px;
+    color: #F78E6F;
+    font-family: 'Gotham Black';
+
+}
+
+.sec3 p {
+    max-width: 425px;
+    font-size: 18px;
+    color: #fff;
+    margin: 30px 0;
+    font-family: 'Gotham Light';
+}
+
+.sec4 .orangeBox p {
+    max-width: 350px;
+    font-size: 18px;
+    color: #fff;
+    margin: 30px 0;
+    font-family: 'Gotham Light';
+}
+
+.sec4 .orangeBox {
+    background: #F78E6F;
+    border-radius: 20px;
+    position: relative;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.sec4 .orangeBox h3 {
+    font-size: 80px;
+    color: #fff;
+    line-height: 0.8;
+    font-family: 'Gotham Black';
+
+}
+
+.sec4 img {
+    position: absolute;
+    right: -100px;
+    bottom: 0;
+}
+
+.sec4 .h3Orng {
+    display: flex;
+    justify-content: end;
+    align-self: center;
+}
+
+.sec4 .h3Orng h3 {
+    color: #F78E6F;
+    font-size: 80px;
+    line-height: 0.8;
+    font-family: 'Gotham Black';
+    max-width: 500px;
+}
