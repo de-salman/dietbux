@@ -33,7 +33,7 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="http://159.223.17.72/wp-content/uploads/2023/05/Image-6@2x.png" height="375px" />
+								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-6@2x.png" height="375px" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
@@ -199,6 +199,50 @@
 					<div class="col-md-6 h3Orng">
 						<h3>THE BEST TO ENJOY HEALTH LIFESTYLE</h3>
 					</div>
+				</div>
+			</div>
+		</section>
+		<section class="sec5 mt-5">
+			<div class="container sec5Bnr">
+				<img src="/wp-content/uploads/2023/05/Mask-Group-3.jpg" width="100%" />
+				<div class="row">
+					<div class="col-md-5 offset-1">
+						<h3>YOU ARE PART OF OUR STORY TIMELINE</h3>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="sec6 mt-5">
+			<div class="container">
+				<h3>Publishes<br /> & Blogs</h3>
+				<div class="row">
+					<div class="col-md-4" style="align-self: flex-end;">
+						<div class="sec6Box">
+							<p>We publish articles related to the field of nutrition and healthy diets to support those interested in enjoying a healthy lifestyle with a variety of options and more platforms available on the explore.</p>
+							<button class="blueBtn">Explore more</button>
+						</div>
+					</div>
+					<div class="col-md-8">
+						<div class="row justify-content-around">
+							<div class="col-md-3 sec6SerBox" style="background-image: url('/wp-content/uploads/2023/05/Rectangle-81.png');">
+								<p class="smallP">Thursday 10, May 2023</p>
+								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
+								<button>Read more</button>
+							</div>
+							<div class="col-md-3 sec6SerBox" style="background-image: url('/wp-content/uploads/2023/05/Rectangle-85.png');">
+								<p class="smallP">Thursday 10, May 2023</p>
+								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
+								<button>Read more</button>
+							</div>
+							<div class="col-md-3 sec6SerBox" style="background-image: url('/wp-content/uploads/2023/05/Rectangle-89.png');">
+								<p class="smallP">Thursday 10, May 2023</p>
+								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
+								<button>Read more</button>
+							</div>
+
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</section>
