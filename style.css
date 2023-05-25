@@ -288,6 +288,7 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     font-size: 90px;
     font-family: 'Gotham Black';
     max-width: 500px;
+    line-height: 0.8;
 }
 
 .sec5Bnr {
