@@ -215,7 +215,7 @@
 		<section class="sec6 mt-5">
 			<div class="container">
 				<h3>Publishes<br /> & Blogs</h3>
-				<div class="row">
+				<div class="row" style="margin-top: -50px;">
 					<div class="col-md-4" style="align-self: flex-end;">
 						<div class="sec6Box">
 							<p>We publish articles related to the field of nutrition and healthy diets to support those interested in enjoying a healthy lifestyle with a variety of options and more platforms available on the explore.</p>
