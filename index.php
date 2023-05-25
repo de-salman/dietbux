@@ -20,8 +20,8 @@
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 homeBnrImg">
-						<img src="/dietbux/wp-content/uploads/2023/05/homeBanner1.png" />
-						<img src="/dietbux/wp-content/uploads/2023/05/homeBanner2.png" style="margin-left: -100px;" />
+						<img src="/wp-content/uploads/2023/05/homeBanner1.png" />
+						<img src="/wp-content/uploads/2023/05/homeBanner2.png" style="margin-left: -100px;" />
 					</div>
 				</div>
 				<h3 class="bigWelcome">Welcome</h3>
@@ -33,35 +33,35 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="/dietbux/wp-content/uploads/2023/05/Image-6.png" />
+								<img class="serBoxImg" src="http://159.223.17.72/wp-content/uploads/2023/05/Image-6@2x.png" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
 								<h4>Lifestyle</h4>
 
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
@@ -77,35 +77,35 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="/dietbux/wp-content/uploads/2023/05/Image-4.png" />
+								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-4@2x.png" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
 								<h4>Muscle+</h4>
 
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
@@ -121,35 +121,35 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="/dietbux/wp-content/uploads/2023/05/Image-11.png" />
+								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-11@2x.png" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
 								<h4>TheDiet</h4>
 
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
 									</div>
 								</div>
 								<div class="d-flex">
-									<img src="/dietbux/wp-content/uploads/2023/05/food.png" height="25px" />
+									<img src="/wp-content/uploads/2023/05/food.png" height="25px" />
 									<div class="SDLpointText">
 										<p class="hText">x3 Meals</p>
 										<p class="pText">Per Day</p>
@@ -180,7 +180,7 @@
 						</div>
 					</div>
 					<div class="col-md-6" style="align-self: end;padding-top:30px;">
-						<img src="/dietbux/wp-content/uploads/2023/05/Image-16-e1684940073250.png" height="450px" />
+						<img src="/wp-content/uploads/2023/05/Image-16-e1684940073250.png" height="450px" />
 					</div>
 				</div>
 			</div>
@@ -194,7 +194,7 @@
 							<p>View our set menu for the month & taste our delicious meals delivered to your step-door, Fresh & Clean</p>
 							<button class="whiteOrnBtn">Order Now</button>
 						</div>
-						<img src="http://localhost/dietbux/wp-content/uploads/2023/05/Image-20.png" height="450px" />
+						<img src="/wp-content/uploads/2023/05/Image-20.png" height="450px" />
 					</div>
 					<div class="col-md-6 h3Orng">
 						<h3>THE BEST TO ENJOY HEALTH LIFESTYLE</h3>
