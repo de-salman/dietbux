@@ -33,7 +33,7 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="http://159.223.17.72/wp-content/uploads/2023/05/Image-6@2x.png" />
+								<img class="serBoxImg" src="http://159.223.17.72/wp-content/uploads/2023/05/Image-6@2x.png" height="375px" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
@@ -77,7 +77,7 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-4@2x.png" />
+								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-4@2x.png" height="375px" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
@@ -121,7 +121,7 @@
 					<div class="col-md-4 serviceBox">
 						<div class="row">
 							<div class="col-md-6">
-								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-11@2x.png" />
+								<img class="serBoxImg" src="/wp-content/uploads/2023/05/Image-11@2x.png" height="375px" />
 								<button class="orangeBtn">Subscribe now</button>
 							</div>
 							<div class="col-md-6 serDetailList">
