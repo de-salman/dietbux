@@ -13,20 +13,21 @@ Tags: custom-background
 
 @import url('https://fonts.cdnfonts.com/css/gotham');
 
-.navPrtDiv {
-    justify-content: space-between;
-    padding: 20px 0;
+
+.navbar {
+    padding: 30px !important;
 }
 
-.navList {
-    align-items: center;
-}
-
-.navList div {
-    padding: 0 20px;
+.navbar-nav .nav-link {
+    padding: 0 20px !important;
     font-family: "Gotham";
     font-size: 14px;
     font-weight: 500;
+    color: #000;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #00ABC8 !important;
 }
 
 .logoText {
@@ -50,16 +51,20 @@ Tags: custom-background
 
 .sec1 h2 {
     line-height: 0.8;
+    font-size: 90px;
+}
+
+.sec1 .sec1Box {
+    z-index: 1;
+    padding-left:100px;
 }
 
 .sec1 h2 .h2Black {
-    font-size: 90px;
     font-family: "Gotham Black";
     color: #000;
 }
 
 .sec1 h2 .h2Blue {
-    font-size: 90px;
     font-family: "Gotham Black";
     color: #00ABC8;
 }
@@ -245,6 +250,7 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     font-family: 'Gotham Light';
 }
 
+
 .sec4 .orangeBox p {
     max-width: 350px;
     font-size: 18px;
@@ -296,6 +302,7 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     position: relative;
     display: flex;
     align-items: center;
+    padding-left: 0 !important;
 }
 
 .sec5Bnr img {
@@ -355,6 +362,10 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     font-family: 'Gotham';
 }
 
+.sec6 .PBContent {
+    margin-top: -50px;
+}
+
 
 
 .sec6SerBox button {
@@ -406,4 +417,131 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     font-size: 15px;
     font-family: 'Gotham Light';
     margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 760px) {
+
+        
+    .sec1 h2 {
+        line-height: 0.8;
+        font-size: 55px;
+    }
+
+    .sec1 .sec1Box {
+        z-index: 1;
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .sec1 .sec1Btn {
+        display: flex;
+    }
+
+    .sec1 .homeBnrImg {
+        display: flex;
+        margin-bottom: 50px ;
+        overflow: hidden;
+    }
+    
+    .navbar {
+        padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x) !important;
+    }
+
+    .sec3 .whiteText ,.sec3 .orangeText  {
+        font-size: 40px;
+    }
+
+    .sec3BtnGrp {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sec3BtnGrp button {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .sec3Container {
+        padding-top: 50px;
+    }
+
+    .serDetailList {
+        width: 50% !important;
+        margin-left: auto;
+    }
+
+    .serviceBox {
+        margin-top: 120px !important;
+    }
+
+    .drImg {
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+    }
+    .sec4 img {
+        right: -80px;
+    }
+
+    .sec4 .orangeBox h3 {
+        font-size: 40px;
+    }
+
+    .sec4 .orangeBox div {
+        z-index: 9;
+    }
+
+    .sec5Bnr .row {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .mainRow .row {
+        width: 100%;
+    }
+
+    .sec5Bnr h3 {
+        font-size: 50px;
+    }
+
+    .sec4 .h3Orng h3 {
+        font-size: 60px;
+        padding: 50px 0 0 0;
+        text-align: center;
+    }
+
+        
+    .sec4 .orangeBox {
+        overflow: hidden;
+    }
+
+        
+    .sec6 .PBContent {
+        margin-top: 0px;
+    }
+
+    .sec6 .sec6Box {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .sec6 h3 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .sec6ImgBox {
+        margin: 20px !important;
+    }
+
+    .sec6SerBox {
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 40px;
+    }
+
+    .footer {
+        margin-top: 30px !important;
+    }
 }

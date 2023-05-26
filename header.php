@@ -12,21 +12,42 @@
 
 <body <?php body_class(); ?>>
     <header>
-        <div class="container-fluid">
-            <div class="d-flex navPrtDiv">
-                <div>
-                    <h3 class="logoText"><span class="logoBlack">Diet</span><span class="logoBlue">bux</span></h3>
-                </div>
-                <div class="d-flex navList">
-                    <div>Plans</div>
-                    <div>Calculator</div>
-                    <div>Nutritionist</div>
-                    <div>Menu</div>
-                    <div>About</div>
-                    <div>Sign up</div>
-                    <div>Ar</div>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <h3 class="logoText"><span class="logoBlack">Diet</span><span class="logoBlue">bux</span></h3>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav" style="justify-content: flex-end;">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Plans</a>
+                            <!-- <a class="nav-link active" aria-current="page" href="#">Plans</a> -->
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Calculator</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Nutritionist</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Menu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Sign up</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                Ar
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-        </div>
+        </nav>
     </header>
     <div id="content">
