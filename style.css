@@ -545,15 +545,15 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
         margin-top: 30px !important;
     }
 
-    .ftLeft {
+    .footer .ftLeft {
         padding-left: 50px;
     }
 
-    .ftRight {
+    .footer .ftRight {
         padding-left: 50px;
     }
 
-    .ftRight ul {
+    .footer .ftRight ul {
         padding-left: 0;
     }
 }
