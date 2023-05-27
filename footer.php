@@ -15,7 +15,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-6 offset-md-1" style="place-self: end;">
+                <div class="col-md-6 offset-md-1 ftRight" style="place-self: end;">
                     <div class="row">
                         <div class="col-md-4">
                             <ul>
