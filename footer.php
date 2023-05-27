@@ -16,8 +16,8 @@
                     </div>
                 </div>
                 <div class="col-md-6 offset-md-1 ftRight" style="place-self: end;">
-                    <div class="row">
-                        <div class="col-md-4">
+                    <div class="row footerQLMain">
+                        <div class="col-md-4 footerQLBox">
                             <ul>
                                 <li>Subscriptions</li>
                                 <li>Calculator</li>
@@ -26,7 +26,7 @@
                                 <li>About us</li>
                             </ul>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 footerQLBox">
                             <ul>
                                 <li>Community</li>
                                 <li>Blog & Articles</li>
@@ -35,7 +35,7 @@
                                 <li>Gift Cards</li>
                             </ul>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 footerQLBox" style="width:100%;">
                             <ul>
                                 <li>Terms & Conditions</li>
                                 <li>Cancel & Refund Policy</li>
@@ -47,7 +47,7 @@
 
                 </div>
             </div>
-            <div class="row">
+            <div class="row ftBottom">
                 <div class="col-md-6" style="align-self: center;">
                     <p style="margin: 0;">All copyrights reserved to Dietbux Catering Co. W.L.L © 2023</p>
                 </div>

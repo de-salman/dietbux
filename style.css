@@ -497,9 +497,9 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
         overflow: hidden;
     }
 
-    .mainRow .row {
+    /* .mainRow .row {
         width: 100%;
-    }
+    } */
 
     .sec5Bnr h3 {
         font-size: 50px;
@@ -555,5 +555,24 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
 
     .footer .ftRight ul {
         padding-left: 0;
+    }
+
+    .footer .footerQLMain {
+        justify-content: center;
+    }
+
+    .footer .footerQLBox {
+        width: 50%;
+        margin-top: 20px;
+    }
+
+    .footer .ftBottom div {
+        text-align: center !important;
+        padding: 0 35px ;
+        padding-bottom: 20px;
+    }
+
+    .footer .mainRow {
+        padding-bottom: 20px;
     }
 }
