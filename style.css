@@ -566,6 +566,17 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
         margin-top: 20px;
     }
 
+    .footer .footerQLBoxLast {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .footer .ftBottom {
+        
+        width: 100%;
+        margin: 0;
+    }
+
     .footer .ftBottom div {
         text-align: center !important;
         padding: 0 35px ;

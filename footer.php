@@ -2,7 +2,7 @@
     <footer class="footer">
         <!-- Add footer content here -->
         <div class="container mainRow">
-            <div class="row ">
+            <div class="row " style="width: 100%;">
                 <div class="col-md-5 ftLeft">
                     <h5>Dietbux</h5>
                     <br />
@@ -35,7 +35,7 @@
                                 <li>Gift Cards</li>
                             </ul>
                         </div>
-                        <div class="col-md-4 footerQLBox" style="width:100%;">
+                        <div class="col-md-4 footerQLBoxLast">
                             <ul>
                                 <li>Terms & Conditions</li>
                                 <li>Cancel & Refund Policy</li>
