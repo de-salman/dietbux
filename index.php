@@ -209,6 +209,9 @@
 					<div class="col-md-5 offset-1">
 						<h3>YOU ARE PART OF OUR STORY TIMELINE</h3>
 					</div>
+					<div class="col joinNow">
+						<button class="blueBtn">Join now</button>
+					</div>
 				</div>
 			</div>
 		</section>
