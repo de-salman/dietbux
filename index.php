@@ -20,8 +20,8 @@
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 homeBnrImg">
-						<img src="http://159.223.17.72/wp-content/themes/dietbux/assets/images/homeBanner1.png" />
-						<img src="http://159.223.17.72/wp-content/themes/dietbux/assets/images/homeBanner2.png" style="margin-left: -100px;" />
+						<img src="http://159.223.17.72/wp-content/themes/dietbux/assets/images/homeBanner1.png" height="370px" />
+						<img src="http://159.223.17.72/wp-content/themes/dietbux/assets/images/homeBanner2.png" height="370px" style="margin-left: -100px;" />
 					</div>
 				</div>
 				<h3 class="bigWelcome">Welcome</h3>
