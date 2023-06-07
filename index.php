@@ -219,25 +219,25 @@
 			<div class="container">
 				<h3>Publishes<br /> & Blogs</h3>
 				<div class="row PBContent">
-					<div class="col-md-4" style="align-self: flex-end;">
+					<div class="col-xl-4" style="align-self: flex-end;">
 						<div class="sec6Box">
 							<p>We publish articles related to the field of nutrition and healthy diets to support those interested in enjoying a healthy lifestyle with a variety of options and more platforms available on the explore.</p>
 							<button class="blueBtn">Explore more</button>
 						</div>
 					</div>
-					<div class="col-md-8">
+					<div class="col-xl-8">
 						<div class="row justify-content-around sec6ImgBox">
-							<div class="col-md-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-81.png');">
+							<div class="col-lg-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-81.png');">
 								<p class="smallP">Thursday 10, May 2023</p>
 								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
 								<button>Read more</button>
 							</div>
-							<div class="col-md-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-85.png');">
+							<div class="col-lg-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-85.png');">
 								<p class="smallP">Thursday 10, May 2023</p>
 								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
 								<button>Read more</button>
 							</div>
-							<div class="col-md-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-89.png');">
+							<div class="col-lg-3 sec6SerBox" style="background-image: url('http://159.223.17.72/wp-content/uploads/2023/05/Rectangle-89.png');">
 								<p class="smallP">Thursday 10, May 2023</p>
 								<p class="bigP">How can a diet plan improve your health and build you muscles?</p>
 								<button>Read more</button>

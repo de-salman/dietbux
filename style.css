@@ -13,6 +13,25 @@ Tags: custom-background
 
 /* @import url('https://fonts.cdnfonts.com/css/gotham'); */
 
+@font-face {
+  font-family: 'Gotham Black';
+  src: url('../dietbux/assets/fonts/Gotham-Black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('../dietbux/assets/fonts/Gotham-Medium.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'Gotham Light';
+  src: url('../dietbux/assets/fonts/Gotham-Light.otf') format('opentype');
+}
+
+body {
+    font-family: 'Gotham',sans-serif;
+}
 
 .navbar {
     padding: 30px !important;
@@ -368,6 +387,8 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     justify-content: flex-end;
     padding-bottom: 20px;
     min-width: 250px;
+    background-size: cover;
+    margin-bottom: 20px;
 }
 
 .sec6SerBox .smallP {
@@ -439,29 +460,214 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     margin-bottom: 15px;
 }
 
+.dietCal .modal-dialog {
+    min-width: 75%;
+    margin-top: 75px;
+}
+
+.dietCal .modal-header {
+    border: none;
+    padding-bottom: 0;
+}
+
+.dietCal .btn-close {
+    filter: brightness(0) invert(1);
+    opacity: 1;
+    padding-right: 40px !important;
+    padding-top: 40px !important;
+}
+
+.dietCal .modal-content {
+    min-height: 700px;
+    background-color: #00ABC8;
+    border: none;
+}
+
+.dietCal .prtInputGrp {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.dietCal .prtInputGrp .inputGrpCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.dietCal .prtInputGrp .inputGrp {
+    width: 100%;
+    display: flex;
+}
+
+.dietCal .prtInputGrp .inputGrpCol {
+    width: 100%;
+}
+
+.dietCal .prtInputGrp .inputGrpCol button {
+    margin-bottom: 10px;
+}
+
+.dietCal .prtInputGrp input::placeholder {
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Gotham Light';
+    text-align: end;
+}
+
+.dietCal .prtInputGrp input:focus {
+    outline: none;
+}
+
+.dietCal .prtInputGrp input {
+    color: #fff;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ffff;
+    width: 100%;
+    font-family: 'Gotham Light';
+}
+
+.dietCal .prtInputGrp button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Gotham Light';
+    width: 100%;
+    padding: 8px 30px;
+}
+
+.dietCal .prtInputGrp button.active {
+    background: #fff;
+    color: #00ABC8;
+}
+
+.dietCal .prtInputGrp label {
+    color: #fff;
+    font-size: 24px;
+    min-width: 200px;
+}
+
+.dietCal .calRow {
+    padding: 20px 75px;
+}
+
+.dietCal .calColLeft {
+        padding-right: 40px;
+        border-right: 1px solid #fff;
+}
+
+.dietCal .calColRight {
+        padding-left: 40px;
+}
+
+.dietCal .calColRight h3 {
+    color: #fff;
+    font-size: 26px;
+    font-family: "Gotham Black";
+}
+
+.dietCal .calColRight p {
+    color: #fff;
+    font-size: 18px;
+    font-family: "Gotham Light";
+}
+
+.dietCal .calColRight .totalKWD {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dietCal .CTABtn {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 40px;
+}
+
+.dietCal .orangeBtn, .dietCal .whiteBtn {
+    font-size: 16px;
+}
+
+
+  
+
+@media only screen and (max-width: 991px) {
+.navbar-nav {
+        margin-top: 40px;
+    }
+
+    .navbar-nav {
+        min-height: 100vh;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 5px 15px !important;
+        font-family: "Gotham";
+        font-size: 40px;
+        font-weight: 500;
+        color: #000;
+        text-align: right;
+    }
+
+    .sec6 {
+        margin-top: 100px !important;
+    }
+
+    /* .sec6 h3 {
+        margin-bottom: 50px;
+    } */
+
+    .PBContent .blueBtn {
+        margin-bottom: 50px;
+    }
+
+      
+    .sec6Box p {
+        padding-top: 30px;
+    }
+}
+
 @media only screen and (max-width: 760px) {
 
+
+    
+      
+    .sec6Box p {
+        margin-left: 30px
+    }
+    
         
     .sec1 h2 {
         line-height: 0.8;
         font-size: 55px;
     }
 
+
     .sec1 .sec1Box {
         z-index: 1;
         padding-left: calc(var(--bs-gutter-x) * .5);
-        margin-bottom: 50px;
+        /* margin-bottom: 50px; */
         margin-top: 50px;
     }
+
+    .sec4 .h3Orng {
+        display: none;
+    }
+
+    .sec2 {
+    margin-top: 0px !important;
+}
 
     .sec1 .sec1Btn {
         display: flex;
     }
 
     .sec1 .homeBnrImg {
-        display: flex;
+        /* display: flex;
         margin-bottom: 50px ;
-        overflow: hidden;
+        overflow: hidden; */
+        display: none;
     }
     
     .navbar {
@@ -484,6 +690,7 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
 
     .sec3Container {
         padding-top: 50px;
+        padding-left: 30px  !important;
     }
 
     .serDetailList {
@@ -501,7 +708,7 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
         height: 100%;
     }
     .sec4 img {
-        right: -80px;
+        right: 10px;
     }
 
     .sec4 .orangeBox h3 {
@@ -554,13 +761,18 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
     }
 
     .sec6 .sec6Box {
-        margin-bottom: 50px;
-        text-align: center;
+        text-align: left;
+    }
+
+
+    .sec6Box .blueBtn {
+        margin-left: 30px;
     }
 
     .sec6 h3 {
         font-size: 50px;
-        text-align: center;
+        text-align: left;
+        padding-left: 30px;
     }
 
     .sec6ImgBox {
@@ -617,5 +829,35 @@ background: linear-gradient(124deg, rgba(211,162,238,0.48792016806722693) 7%, rg
 
     .footer .mainRow {
         padding-bottom: 20px;
+    }
+
+    .dietCal .prtInputGrp {
+        flex-direction: column;
+    }
+    .dietCal .calRow {
+        padding: 10px;
+    }
+    .dietCal .calColLeft , .dietCal .calColRight {
+        padding: 0;
+        border: none;
+    }
+    .dietCal .prtInputGrp label {
+        margin-bottom: 10px;
+    }
+
+    
+    .sec4 .orangeBox {
+        padding-left: 30px;
+    }
+
+    .sec1 .bigWelcome {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 400px) {
+    .blueBtn , .orangeBtn {
+        font-size: 15px;
     }
 }
